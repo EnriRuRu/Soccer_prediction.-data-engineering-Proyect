@@ -6,4 +6,4 @@ Create database, sql
 
 Create APP with endpoints, Flask
 
-Insert Database and Deploy to AWS
+Insert Database and Deploy to AWS and Docker
